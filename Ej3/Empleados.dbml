@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ExamenMariaCervera" Class="EmpleadosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=ExamenMariaCervera;Integrated Security=True" SettingsObjectName="Ej3.Properties.Settings" SettingsPropertyName="ExamenMariaCerveraConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EMPLEADOS" Member="EMPLEADOS">
+    <Type Name="EMPLEADOS">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NChar(15)" CanBeNull="true" />
+      <Column Name="Parent" Type="System.String" DbType="NChar(15)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
