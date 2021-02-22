@@ -1,0 +1,7 @@
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\bin\Debug\Ej1.exe.config
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\bin\Debug\Ej1.exe
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\bin\Debug\Ej1.pdb
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\obj\Debug\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\obj\Debug\Ej1.exe
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\obj\Debug\Ej1.pdb
+C:\Users\artea\Desktop\ExamenMariaCervera\Ej1\Ej1\obj\Debug\Ej1.csprojAssemblyReference.cache
