@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ExamenMariaCervera" Class="DepositosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=ExamenMariaCervera;Integrated Security=True" SettingsObjectName="Ej2.Properties.Settings" SettingsPropertyName="ExamenMariaCerveraConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.bank_deposits" Member="bank_deposits">
+    <Type Name="bank_deposits">
+      <Column Name="account_holder" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="amount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
